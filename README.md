@@ -28,6 +28,11 @@ This shoe store website reflects my dedication to clean design, interactivity, a
 
 ---
 
+Check out the live version of the project here:  
+👉 [Live Demo]( https://harshtechpioneers.github.io/ShoeStore_Website/)
+
+---
+
 ## 🤝 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshraj94/) 
